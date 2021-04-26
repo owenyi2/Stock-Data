@@ -1,6 +1,6 @@
 Folders
   - Penny Stocks
-    - dated_to: 2021-04-16 04:00:00
+    - dated_to: 2021-04-26 04:00:00
     - timeframe: "day"
     - list_of_stock = ['STON', 'JT', 'ESGC', 'MTL', 'RYB', 'BBAR', 'SUP', 'CCO', 'ASC', 'CEPU', 'RRD', 'YPF', 'ELP', 'VNTR', 'UGP', 'HMY', 'GNW', 'AAIC', 'CIG', 'TEF', 'MFA', 'NNA', 'TGS', 'ENIC', 'BBD', 'ELVT', 'LYG', 'ITUB', 'QD', 'IVR', 'WMC', 'FENG', 'NAT', 'CO', 'BQ', 'NOK', 'AUY', 'ABEV', 'DHX', 'SAN', 'MUX', 'TKC', 'PVL', 'AEG', 'VHC', 'SUPV', 'ICD', 'RIG', 'MFG', 'AHT', 'BEST', 'IRR', 'CAAP', 'LCI', 'GCI', 'PPR', 'IAG', 'AT', 'MGF', 'MIN', 'CRK', 'DHF', 'DS', 'VVR', 'PIM', 'MITT', 'SB', 'PPT', 'CTK', 'CMCM', 'TK', 'QUAD', 'AMPY', 'MIE', 'OSG', 'HCHC', 'TEO', 'BTU', 'DSX', 'HLX', 'BPT', 'WPG', 'SD', 'NR', 'WTTR', 'BRFS', 'STG', 'KOS', 'NEW', 'VIST', 'IO', 'EVC', 'CPG', 'SWN', 'WTI', 'CSLT', 'EXTN', 'ENLC', 'LITB', 'TTI', 'NGL', 'FEDU', 'SOS', 'ENZ', 'CHS', 'WEI', 'GLOP', 'FI', 'FTK', 'LEJU', 'BORR', 'PEI', 'MOGU', 'EXPR', 'EGY', 'NEX', 'LAIX', 'GTT', 'PHX']
     
